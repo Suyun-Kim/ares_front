@@ -1,24 +1,8 @@
-# ares_front
+#아레스 리뉴얼 - 프론트
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  리팩토링 하는 이유
+   1. 기능의 추가
+    - 위치 기반 출석
+   2. 디자인 변경
+   3. Jsp -> Vue 3.0
+    - Flux 패턴으로 구조를 
